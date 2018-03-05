@@ -1,7 +1,0 @@
-C:\Users\ramazan\Documents\SharpDevelop Projects\JdFolderWatchCsharp\JdFolderWatchCsharp\bin\Debug\JdFolderWatchCsharp.exe
-C:\Users\ramazan\Documents\SharpDevelop Projects\JdFolderWatchCsharp\JdFolderWatchCsharp\bin\Debug\JdFolderWatchCsharp.pdb
-C:\Users\ramazan\Documents\SharpDevelop Projects\JdFolderWatchCsharp\JdFolderWatchCsharp\obj\Debug\JdFolderWatchCsharp.csprojResolveAssemblyReference.cache
-C:\Users\ramazan\Documents\SharpDevelop Projects\JdFolderWatchCsharp\JdFolderWatchCsharp\obj\Debug\JdFolderWatchCsharp.MainForm.resources
-C:\Users\ramazan\Documents\SharpDevelop Projects\JdFolderWatchCsharp\JdFolderWatchCsharp\obj\Debug\JdFolderWatchCsharp.csproj.GenerateResource.Cache
-C:\Users\ramazan\Documents\SharpDevelop Projects\JdFolderWatchCsharp\JdFolderWatchCsharp\obj\Debug\JdFolderWatchCsharp.exe
-C:\Users\ramazan\Documents\SharpDevelop Projects\JdFolderWatchCsharp\JdFolderWatchCsharp\obj\Debug\JdFolderWatchCsharp.pdb
